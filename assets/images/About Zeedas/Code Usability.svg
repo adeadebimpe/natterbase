@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="591px" height="450px" viewBox="0 0 591 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 29</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="558" height="371" rx="3"></rect>
+        <rect id="path-3" x="0" y="0" width="55.0209551" height="55.0209551" rx="4"></rect>
+        <filter x="-46.3%" y="-44.5%" width="196.3%" height="196.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Zeedas" transform="translate(-879.000000, -1427.000000)">
+            <g id="Group-29" transform="translate(879.000000, 1427.000000)">
+                <g id="Group-27" transform="translate(33.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask-Copy" fill="#000000" xlink:href="#path-1"></use>
+                    <text id="up-to-date-in-0.084s" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="24" y="48">up to date in 0.084s</tspan>
+                        <tspan x="24" y="62">up to date in 0.087s</tspan>
+                        <tspan x="24" y="76">Wed May 09 2018 06:56:29 GMT+0100 (WAT):Successful</tspan>
+                        <tspan x="24" y="90">Wed May 09 2018 06:56:29 GMT+0100 (WAT):Successful</tspan>
+                        <tspan x="24" y="104">up to date in 3.714s</tspan>
+                        <tspan x="24" y="118">up to date in 3.714s</tspan>
+                        <tspan x="24" y="132">Starting database: mongodb failed!</tspan>
+                        <tspan x="24" y="146">pm2 launched in no-daemon mode (you can add DEBUG="*" env variable to get more messages)</tspan>
+                        <tspan x="24" y="160">[2018-05-09 05:56:35] PM2 log: Launching in no daemon mode</tspan>
+                        <tspan x="24" y="174">[2018-05-09 05:56:35] PM2 log: Launching in no daemon mode</tspan>
+                        <tspan x="24" y="188">[2018-05-09 05:56:35] PM2 log: [PM2] Starting /usr/src/app/app.js in fork_mode (1 instance)</tspan>
+                        <tspan x="24" y="202">[2018-05-09 05:56:35] PM2 log: [Watch] Start watching app</tspan>
+                        <tspan x="24" y="216">[2018-05-09 05:56:35] PM2 log: Starting execution sequence in -fork mode- for app name:app id:0</tspan>
+                        <tspan x="24" y="230">[2018-05-09 05:56:36] PM2 log: App name:app id:0 online</tspan>
+                        <tspan x="24" y="244">[2018-05-09 05:56:36] PM2 log: [PM2] Done.</tspan>
+                        <tspan x="24" y="258">2018-05-09 05:56:36] PM2 log: Use `pm2 show &lt;id|name&gt;` to get more details about an app</tspan>
+                        <tspan x="24" y="272">[2018-05-09 05:56:36] PM2 log: [--no-daemon] Continue to stream logs</tspan>
+                        <tspan x="24" y="286">[2018-05-09 05:56:36] PM2 log: [--no-daemon] Exit on target PM2 exit pid=44</tspan>
+                        <tspan x="24" y="300">05:56:36 PM2 | Error: watch /usr/src/app/public/js/Angular/angular-animate.js ENOSPC</tspan>
+                        <tspan x="24" y="314">05:56:36 PM2 | at _errnoException (util.js:1022:11)</tspan>
+                        <tspan x="24" y="328">05:56:36 PM2 | at FSWatcher.start (fs.js:1374:19)</tspan>
+                    </text>
+                </g>
+                <g id="Group-28" transform="translate(0.000000, 293.000000)">
+                    <rect id="Rectangle-3-Copy-4" fill="#FFFFFF" x="0" y="0" width="315" height="157" rx="3"></rect>
+                    <g id="Group-21" transform="translate(26.000000, 19.400000)">
+                        <g id="Group" transform="translate(0.000000, 61.000000)">
+                            <text id="28-May" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="36" fill="#A2A2A2">
+                                <tspan x="70" y="39">28 May</tspan>
+                            </text>
+                            <text id="Deadline" font-family="Roboto-Medium, Roboto" font-size="18" font-weight="400" fill="#444444">
+                                <tspan x="71" y="20">Deadline</tspan>
+                            </text>
+                            <text id="01hr-32min-25s" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#A2A2A2">
+                                <tspan x="164" y="48">01hr 32min 25s</tspan>
+                            </text>
+                            <text id="Time" font-family="Roboto-Medium, Roboto" font-size="18" font-weight="400" fill="#444444">
+                                <tspan x="222.157227" y="20">Time</tspan>
+                            </text>
+                            <g id="icon">
+                                <g id="base">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                                <path d="M38.218,39.7289565 L17.7808696,39.7289565 C16.222,39.7289565 15,38.2763478 15,36.4224348 L15,21.4306087 C15,19.5766957 15.7008696,18.2574783 17.2608696,18.2574783 L24.0434783,18.2574783 L24.0434783,17.1270435 C24.0434783,16.5188696 24.4131304,16 25.028087,16 C25.6441739,16 26.1426957,16.494 26.1426957,17.1021739 L26.3043478,18.2574783 L29.6956522,18.2574783 L29.8573043,17.1021739 C29.8573043,16.494 30.3558261,16 30.9707826,16 C31.5868696,16 32.0853913,16.494 32.0853913,17.1021739 L31.9565217,18.2574783 L38.7391304,18.2574783 C40.2991304,18.2574783 41,19.5766957 41,21.4306087 L41,36.4224348 C41,38.2763478 39.778,39.7289565 38.218,39.7289565 L38.218,39.7289565 Z M38.218,20.3284348 L32.0853913,20.3284348 L32.0853913,20.776087 C32.0853913,21.3842609 31.4410435,21.6487826 30.826087,21.6487826 C30.21,21.6487826 29.8573043,21.3842609 29.8573043,20.776087 L29.8573043,20.3284348 L26.1426957,20.3284348 L26.1426957,20.776087 C26.1426957,21.3842609 25.7888696,21.6487826 25.173913,21.6487826 C24.5578261,21.6487826 23.9146087,21.3842609 23.9146087,20.776087 L23.9146087,20.3284348 L17.2608696,20.5183478 C17.0664348,20.5183478 17.228087,20.7466957 17.228087,21.4306087 L17.2608696,23.9096522 L38.7391304,23.9096522 L38.771913,21.4306087 C38.771913,20.7466957 38.4135652,20.3284348 38.218,20.3284348 L38.218,20.3284348 Z M38.771913,36.4224348 L38.7391304,26.1705217 L17.2608696,26.1705217 L17.228087,36.4224348 C17.228087,37.1063478 17.0664348,37.4748696 17.2608696,37.4748696 L38.7391304,37.4748696 C38.9335652,37.4748696 38.771913,37.1063478 38.771913,36.4224348 L38.771913,36.4224348 Z M24.0434783,34.0835652 L20.6521739,34.0835652 L20.6521739,30.6922609 C20.6521739,30.2864348 20.5323478,29.5946087 20.9426957,29.5946087 L24.4097391,29.5946087 C24.820087,29.5946087 25.1524348,29.9224348 25.1524348,30.3293913 L25.1524348,33.7568696 C25.1524348,34.1626957 24.4538261,34.0835652 24.0434783,34.0835652 L24.0434783,34.0835652 Z M20.6521739,34.0835652 C20.2418261,34.0835652 20.6521739,33.7557391 20.6521739,34.0835652 L20.6521739,34.0835652 Z" id="calendar-icon" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                        <g id="Group-37" transform="translate(0.000000, 0.200000)">
+                            <rect id="Rectangle-2" fill="#000000" x="0" y="1" width="4" height="43"></rect>
+                            <text id="Project-Server_Confi" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#A2A2A2">
+                                <tspan x="26" y="39">Project Server_Config</tspan>
+                            </text>
+                            <text id="Module-Name" font-family="Roboto-Medium, Roboto" font-size="18" font-weight="400" fill="#444444">
+                                <tspan x="26" y="17">Module Name</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

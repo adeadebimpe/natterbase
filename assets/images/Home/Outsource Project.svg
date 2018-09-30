@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-761.000000, -2770.000000)">
+            <g id="Group-5" transform="translate(761.000000, 2770.000000)">
+                <g id="Group-30">
+                    <rect id="Rectangle-5-Copy" fill="#000000" x="0" y="0" width="81" height="81"></rect>
+                    <g id="Group-5" transform="translate(24.000000, 25.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="2">
+                        <polygon id="Path" points="26.9559091 0.740454545 0.281818182 16.9540909 19.9168182 29.6563636"></polygon>
+                        <polygon id="Path" points="14.6818182 26.7909091 9.22727273 30.5818182 9.22727273 22.9"></polygon>
+                        <path d="M9.41409091,22.3977273 L20,11 L9.41409091,22.3977273 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="151px" height="151px" viewBox="0 0 151 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 33</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1143.000000, -8958.000000)">
+            <g id="Group-14" transform="translate(230.000000, 8760.000000)">
+                <g id="Group-33" transform="translate(913.000000, 198.000000)">
+                    <path d="M75.5,151 C117.197499,151 151,117.197499 151,75.5 C151,33.8025014 117.197499,0 75.5,0 C33.8025014,0 0,33.8025014 0,75.5 C0,117.197499 33.8025014,151 75.5,151 Z" id="Oval-Copy" fill="#ECECEC"></path>
+                    <g id="Group-6" transform="translate(51.000000, 54.000000)" stroke="#000000">
+                        <path d="M30.387931,13.1465517 C30.387931,20.2866379 26.7521552,26.0775862 19.612069,26.0775862 C12.4719828,26.0775862 8.8362069,20.2866379 8.8362069,13.1465517 C8.8362069,6.00646552 12.4719828,0.215517241 19.612069,0.215517241 C26.7521552,0.215517241 30.387931,6.00646552 30.387931,13.1465517 Z" id="Path" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M39.0086207,47.6293103 L0.215517241,47.6293103 C0.215517241,39.2974138 6.96982759,32.5431034 15.3017241,32.5431034 L23.9224138,32.5431034 C32.2543103,32.5431034 39.0086207,39.2974138 39.0086207,47.6293103 Z" id="Path" stroke-width="3" stroke-linecap="square"></path>
+                        <path d="M43.3189655,0.215517241 L43.3189655,13.1465517 L43.3189655,0.215517241 Z" id="Path" stroke-width="2.5" stroke-linecap="square"></path>
+                        <path d="M36.8534483,6.68103448 L49.7844828,6.68103448 L36.8534483,6.68103448 Z" id="Path" stroke-width="2.5" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

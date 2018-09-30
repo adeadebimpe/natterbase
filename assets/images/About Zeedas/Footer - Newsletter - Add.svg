@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Home" transform="translate(-1430.000000, -10559.000000)" stroke="#000000" stroke-width="2">
+            <g id="Group-13" transform="translate(0.000000, 10199.000000)">
+                <g id="check" transform="translate(1431.000000, 361.000000)">
+                    <path d="M13.4615385,7 L0,7" id="Shape"></path>
+                    <path d="M6.71153846,0 L6.71153846,13.25" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

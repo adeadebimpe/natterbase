@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="558px" height="371px" viewBox="0 0 558 371" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 28</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="558" height="371" rx="3"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Zeedas" transform="translate(-232.000000, -3853.000000)">
+            <g id="Group-28" transform="translate(232.000000, 3853.000000)">
+                <g id="Group-26">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask-Copy" fill="#000000" xlink:href="#path-1"></use>
+                    <text id="Starting-database:-m" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="22" fill="#D0D0D0">
+                        <tspan x="55" y="43">Starting database: mongodb failed!</tspan>
+                        <tspan x="55" y="65">pm2 launched in no-daemon mode (you can add DEBUG="*" [2018-05-09 05:56:35] </tspan>
+                        <tspan x="55" y="87">PM2 log: Launching in no daemon mode</tspan>
+                        <tspan x="55" y="109">[2018-05-09 05:56:35] PM2 log: Launching in no daemon mode</tspan>
+                        <tspan x="55" y="131">[2018-05-09 05:56:35] PM2 log: [PM2] Starting /usr/src/app/app.js in fork_mode</tspan>
+                        <tspan x="55" y="153">[2018-05-09 05:56:35] PM2 log: [Watch] Start watching app</tspan>
+                        <tspan x="55" y="175">[2018-05-09 05:56:35] PM2 log: Starting execution sequence in -fork </tspan>
+                        <tspan x="55" y="197">mode[2018-05-09 05:56:36] PM2 log: App name:app id:0 online</tspan>
+                        <tspan x="55" y="219">[2018-05-09 05:56:36] PM2 log: [PM2] Done.</tspan>
+                        <tspan x="55" y="241">2018-05-09 05:56:36] PM2 log: Use `pm2 show &lt;id|name&gt;` </tspan>
+                        <tspan x="55" y="263">[2018-05-09 05:56:36] PM2 log: [--no-daemon] Continue to stream logs</tspan>
+                        <tspan x="55" y="285">[2018-05-09 05:56:36] PM2 log: [--no-daemon] Exit on target PM2 exit pid=44</tspan>
+                        <tspan x="55" y="307">05:56:36 PM2 | at _errnoException (util.js:1022:11)</tspan>
+                        <tspan x="55" y="329">05:56:36 PM2 | at FSWatcher.start (fs.js:1374:19)</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="151px" height="151px" viewBox="0 0 151 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 31</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-285.000000, -8958.000000)">
+            <g id="Group-14" transform="translate(230.000000, 8760.000000)">
+                <g id="Group-31" transform="translate(55.000000, 198.000000)">
+                    <path d="M75.5,151 C117.197499,151 151,117.197499 151,75.5 C151,33.8025014 117.197499,0 75.5,0 C33.8025014,0 0,33.8025014 0,75.5 C0,117.197499 33.8025014,151 75.5,151 Z" id="Oval" fill="#ECECEC"></path>
+                    <g id="Group-4" transform="translate(50.000000, 51.000000)" stroke="#000000" stroke-linecap="square">
+                        <path d="M39.1304348,19.5652174 C39.1304348,30.3717391 30.3717391,39.1304348 19.5652174,39.1304348 C8.75869565,39.1304348 0,30.3717391 0,19.5652174 C0,8.75869565 8.75869565,0 19.5652174,0 C30.3717391,0 39.1304348,8.75869565 39.1304348,19.5652174 Z" id="Path" stroke-width="3" stroke-linejoin="round"></path>
+                        <path d="M50,50 L33.3913043,33.3913043 L50,50 Z" id="Path" stroke-width="3"></path>
+                        <path d="M19.1666667,14.1666667 L19.1666667,24.1666667 M24.1666667,19.1666667 L14.1666667,19.1666667" id="Stroke-836" stroke-width="2.4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
